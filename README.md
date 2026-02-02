@@ -55,19 +55,11 @@ build_exe.bat
 ## � Screenshots
 
 ### Main Interface
-![Main Interface](screenshots/main-interface.png)
+![Main Interface](main-interface.png)
+![Main Interface](main-interface-2.png)
+![Main Interface](main-interface3.png)
 
 *Modern Windows 11-style interface with configuration panel (left) and output panel (right)*
-
-### Logical System Configuration
-![Configuration Panel](screenshots/ls-config.png)
-
-*Per-logical system settings with automatic IP calculation, BGP communities, and custom export policies*
-
-### Generated Output
-![Generated Configuration](screenshots/output.png)
-
-*Production-ready Juniper commands with proper formatting - ready to copy and deploy*
 
 ---
 
@@ -102,3 +94,4 @@ GNU License - Free to use for personal and commercial purposes
 ---
 
 *Making network configuration easier, one router at a time* 🌐
+
