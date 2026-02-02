@@ -1,0 +1,59 @@
+{
+    "logical_systems": {
+        "none": "INT",
+        "GGC-RT": "GGC",
+        "FNA-RT": "FNA",
+        "MCDN-RT": "M-CDN",
+        "NIX-RT": "BDIX",
+        "BCDN-RT": "BCDN",
+        "PNI-RT": "PNI"
+    },
+    "export_policies": [
+        "CLIENT-DEFAULT-OUT",
+        "CLIENT-GGC-OUT",
+        "CLIENT-FNA-OUT",
+        "CLIENT-CDN-OUT",
+        "CLIENT-MCDN-OUT",
+        "CLIENT-NIX-OUT",
+        "CLIENT-BCDN-OUT",
+        "CLIENT-PNI-OUT"
+    ],
+    "local_preferences": {
+        "Very High": 1000,
+        "High": 900,
+        "Medium-High": 700,
+        "Medium": 500,
+        "Medium-Low": 400,
+        "Low": 300,
+        "Very Low": 200,
+        "Default": 100
+    },
+    "community_tags": [
+        "bharti",
+        "cogent",
+        "summit"
+    ],
+    "interface_types": [
+        "ae0",
+        "ae1",
+        "ae2",
+        "ae3",
+        "ae4",
+        "ae5",
+        "ae6",
+        "ae7",
+        "ae8"
+    ],
+    "bandwidth_presets": [
+        10,
+        50,
+        100,
+        200,
+        300,
+        400,
+        450,
+        500,
+        1000,
+        10000
+    ]
+}
