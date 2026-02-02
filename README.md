@@ -55,9 +55,9 @@ build_exe.bat
 ## � Screenshots
 
 ### Main Interface
-![Main Interface](main-interface.png)
-![Main Interface](main-interface-2.png)
-![Main Interface](main-interface3.png)
+![Main Interface](screenshot1.png)
+![Main Interface](screenshot2.png)
+![Main Interface](screenshot3.png)
 
 *Modern Windows 11-style interface with configuration panel (left) and output panel (right)*
 
@@ -94,4 +94,5 @@ GNU License - Free to use for personal and commercial purposes
 ---
 
 *Making network configuration easier, one router at a time* 🌐
+
 
